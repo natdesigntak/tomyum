@@ -15,1254 +15,1174 @@ msgstr ""
 "X-Generator: Poedit 3.4.1\n"
 
 msgid "Supports Painting"
-msgstr "Support Painting"
+msgstr "การระบายสี Support"
 
 msgid "Alt + Mouse wheel"
-msgstr "Alt + Mouse wheel"
+msgstr "Alt + ล้อเมาส์"
 
 msgid "Section view"
-msgstr "Section view"
+msgstr "มุมมองตัดชิ้นงาน"
 
 msgid "Reset direction"
-msgstr "Reset direction"
+msgstr "รีเซ็ตทิศทาง"
 
 msgid "Ctrl + Mouse wheel"
-msgstr "Ctrl + Mouse wheel"
+msgstr "Ctrl + ล้อเมาส์"
 
 msgid "Pen size"
-msgstr "Pen size"
+msgstr "ขนาดปากกา"
 
 msgid "Left mouse button"
-msgstr "Left mouse button"
+msgstr "ปุ่มซ้ายของเมาส์"
 
 msgid "Enforce supports"
-msgstr "Enforce supports"
+msgstr "บังคับให้มี Support"
 
 msgid "Right mouse button"
-msgstr "Right mouse button"
+msgstr "ปุ่มขวาของเมาส์"
 
 msgid "Block supports"
-msgstr "Block supports"
+msgstr "บล็อก Support"
 
 msgid "Shift + Left mouse button"
-msgstr "Shift + Left mouse button"
+msgstr "Shift + ปุ่มซ้ายของเมาส์"
 
 msgid "Erase"
-msgstr "Erase"
+msgstr "ลบ"
 
 msgid "Erase all painting"
-msgstr "Erase all painting"
+msgstr "ลบการระบายสีทั้งหมด"
 
 msgid "Highlight overhang areas"
-msgstr "Highlight overhangs"
+msgstr "ไฮไลท์พื้นที่ Overhang"
 
 msgid "Gap fill"
-msgstr "Gap fill"
+msgstr "เติมช่องว่าง"
 
 msgid "Perform"
-msgstr "Apply"
+msgstr "ดำเนินการ"
 
 msgid "Gap area"
-msgstr "Gap area"
+msgstr "พื้นที่ช่องว่าง"
 
 msgid "Tool type"
-msgstr "Tool type"
+msgstr "ประเภทเครื่องมือ"
 
 msgid "Smart fill angle"
-msgstr "Smart fill angle"
+msgstr "มุมการเติมอัจฉริยะ"
 
 msgid "On overhangs only"
-msgstr "On overhangs only"
+msgstr "เฉพาะบน Overhang"
 
 msgid "Auto support threshold angle: "
-msgstr "Auto support threshold angle: "
+msgstr "มุม Threshold สำหรับ Auto Support: "
 
 msgid "Circle"
-msgstr "Circle"
+msgstr "วงกลม"
 
 msgid "Sphere"
-msgstr "Sphere"
+msgstr "ทรงกลม"
 
 msgid "Fill"
-msgstr "Fill"
+msgstr "เติมเต็ม"
 
 msgid "Gap Fill"
-msgstr "Gap Fill"
+msgstr "เติมช่องว่าง"
 
 #, boost-format
 msgid "Allows painting only on facets selected by: \"%1%\""
-msgstr "Allows painting only on facets selected by: \"%1%\""
+msgstr "อนุญาตให้ระบายสีเฉพาะด้านที่เลือกโดย: \"%1%\""
 
 msgid "Highlight faces according to overhang angle."
-msgstr "Highlight faces according to overhang angle."
+msgstr "ไฮไลท์พื้นผิวตามมุม Overhang"
 
 msgid "No auto support"
-msgstr "No auto support"
+msgstr "ไม่มี Auto Support"
 
 msgid "Support Generated"
-msgstr "Support generated"
+msgstr "Support ถูกสร้างแล้ว"
 
 msgid "Gizmo-Place on Face"
-msgstr ""
+msgstr "Gizmo - วางบนผิว"
 
 msgid "Lay on face"
-msgstr "Lay on Face"
+msgstr "วางบนผิว"
 
 #, boost-format
 msgid ""
-"Filament count exceeds the maximum number that painting tool supports. only "
-"the first %1% filaments will be available in painting tool."
-msgstr ""
 "Filament count exceeds the maximum number that painting tool supports. Only "
 "the first %1% filaments will be available in painting tool."
+msgstr ""
+"จำนวน Filament เกินกว่าจำนวนสูงสุดที่เครื่องมือระบายสีรองรับ จะใช้ได้เพียง %1% Filament แรกเท่านั้น"
 
 msgid "Color Painting"
-msgstr "Color painting"
+msgstr "การระบายสี"
 
 msgid "Pen shape"
-msgstr "Pen shape"
+msgstr "รูปทรงปากกา"
 
 msgid "Paint"
-msgstr "Paint"
+msgstr "ระบายสี"
 
 msgid "Key 1~9"
-msgstr "Key 1~9"
+msgstr "ปุ่ม 1~9"
 
 msgid "Choose filament"
-msgstr "Choose filament"
+msgstr "เลือก Filament"
 
 msgid "Edge detection"
-msgstr "Edge detection"
+msgstr "ตรวจจับขอบ"
 
 msgid "Triangles"
-msgstr "Triangles"
+msgstr "สามเหลี่ยม"
 
 msgid "Filaments"
-msgstr "Filaments"
+msgstr "Filament"
 
 msgid "Brush"
-msgstr "Brush"
+msgstr "แปรง"
 
 msgid "Smart fill"
-msgstr "Smart fill"
+msgstr "เติมอัจฉริยะ"
 
 msgid "Bucket fill"
-msgstr "Bucket fill"
+msgstr "ถังเติมสี"
 
 msgid "Height range"
-msgstr "Height range"
+msgstr "ช่วงความสูง"
 
 msgid "Alt + Shift + Enter"
 msgstr "Alt + Shift + Enter"
 
 msgid "Toggle Wireframe"
-msgstr "Toggle Wireframe"
+msgstr "สลับโหมด Wireframe"
 
 msgid "Shortcut Key "
-msgstr "Shortcut Key "
+msgstr "ปุ่มลัด "
 
 msgid "Triangle"
-msgstr "Triangle"
+msgstr "สามเหลี่ยม"
 
 msgid "Height Range"
-msgstr "Height Range"
+msgstr "ช่วงความสูง"
 
 msgid "Vertical"
-msgstr "Vertical"
+msgstr "แนวตั้ง"
 
 msgid "Horizontal"
-msgstr "Horizontal"
+msgstr "แนวนอน"
 
 msgid "Remove painted color"
-msgstr "Remove painted color"
+msgstr "ลบสีที่ระบาย"
 
 #, boost-format
 msgid "Painted using: Filament %1%"
-msgstr "Painted using: Filament %1%"
+msgstr "ระบายสีด้วย: Filament %1%"
 
 msgid "Move"
-msgstr "Move"
+msgstr "ย้าย"
 
 msgid "Gizmo-Move"
-msgstr ""
+msgstr "Gizmo - ย้าย"
 
 msgid "Rotate"
-msgstr "Rotate"
+msgstr "หมุน"
 
 msgid "Gizmo-Rotate"
-msgstr ""
+msgstr "Gizmo - หมุน"
 
 msgid "Optimize orientation"
-msgstr "Optimize orientation"
+msgstr "ปรับทิศทางให้เหมาะสม"
 
 msgid "Apply"
-msgstr "Apply"
+msgstr "ใช้การตั้งค่านี้"
 
 msgid "Scale"
-msgstr "Scale"
+msgstr "ปรับขนาด"
 
 msgid "Gizmo-Scale"
-msgstr ""
+msgstr "Gizmo - ปรับขนาด"
 
 msgid "Error: Please close all toolbar menus first"
-msgstr "Error: Please close all toolbar menus first"
+msgstr "ข้อผิดพลาด: โปรดปิดเมนูเครื่องมือทั้งหมดก่อน"
 
 msgid "in"
-msgstr "in"
+msgstr "นิ้ว"
 
 msgid "mm"
-msgstr "mm"
+msgstr "มม."
 
 msgid "Position"
-msgstr "Position"
+msgstr "ตำแหน่ง"
 
-#. TRN - Input label. Be short as possible
-#. Angle between Y axis and text line direction.
-#. TRN - Input label. Be short as possible
 msgid "Rotation"
-msgstr "Rotation"
+msgstr "การหมุน"
 
 msgid "Scale ratios"
-msgstr "Scale ratios"
+msgstr "อัตราส่วนการปรับขนาด"
 
 msgid "Object Operations"
-msgstr "Object operations"
+msgstr "การจัดการวัตถุ"
 
 msgid "Volume Operations"
-msgstr "Volume operations"
+msgstr "การจัดการปริมาตร"
 
 msgid "Translate"
-msgstr "Translate"
+msgstr "เลื่อนตำแหน่ง"
 
 msgid "Group Operations"
-msgstr "Group operations"
+msgstr "การจัดการกลุ่ม"
 
 msgid "Set Position"
-msgstr "Set position"
+msgstr "ตั้งค่าตำแหน่ง"
 
 msgid "Set Orientation"
-msgstr "Set orientation"
+msgstr "ตั้งค่าทิศทาง"
 
 msgid "Set Scale"
-msgstr "Set scale"
+msgstr "ตั้งค่าขนาด"
 
 msgid "Reset Position"
-msgstr "Reset position"
+msgstr "รีเซ็ตตำแหน่ง"
 
 msgid "Reset Rotation"
-msgstr "Reset rotation"
+msgstr "รีเซ็ตการหมุน"
 
 msgid "World coordinates"
-msgstr "World coordinates"
+msgstr "พิกัดโลก"
 
 msgid "Object coordinates"
-msgstr ""
+msgstr "พิกัดวัตถุ"
 
 msgid "°"
 msgstr "°"
 
-#. TRN - Input label. Be short as possible
 msgid "Size"
-msgstr "Size"
+msgstr "ขนาด"
 
 msgid "%"
 msgstr "%"
 
 msgid "uniform scale"
-msgstr "Uniform scale"
+msgstr "ปรับขนาดแบบคงสัดส่วน"
 
 msgid "Planar"
-msgstr "Planar"
+msgstr "ระนาบ"
 
 msgid "Dovetail"
-msgstr "Dovetail"
+msgstr "เดือยเข้าลิ่ม"
 
 msgid "Auto"
-msgstr "Auto"
+msgstr "อัตโนมัติ"
 
 msgid "Manual"
-msgstr "Manual"
+msgstr "กำหนดเอง"
 
 msgid "Plug"
-msgstr "Plug"
+msgstr "ปลั๊ก"
 
 msgid "Dowel"
-msgstr "Dowel"
+msgstr "เดือย"
 
 msgid "Snap"
-msgstr "Snap"
+msgstr "ประกบล็อก"
 
 msgid "Prism"
-msgstr ""
+msgstr "ปริซึม"
 
 msgid "Frustum"
-msgstr "Frustum"
+msgstr "ปริซึมตัดยอด"
+
+
+
+
 
 msgid "Square"
-msgstr "Square"
+msgstr "สี่เหลี่ยมจัตุรัส"
 
 msgid "Hexagon"
-msgstr "Hexagon"
+msgstr "หกเหลี่ยม"
 
 msgid "Keep orientation"
-msgstr "Keep orientation"
+msgstr "คงทิศทาง"
 
 msgid "Place on cut"
-msgstr "Place on cut"
+msgstr "วางบนระนาบตัด"
 
 msgid "Flip upside down"
-msgstr ""
+msgstr "กลับด้านบนลงล่าง"
 
 msgid "Connectors"
-msgstr "Connectors"
+msgstr "ตัวเชื่อม"
 
 msgid "Type"
-msgstr "Type"
+msgstr "ประเภท"
 
 msgid "Style"
-msgstr "Style"
+msgstr "สไตล์"
 
 msgid "Shape"
-msgstr "Shape"
+msgstr "รูปร่าง"
 
-#. TRN - Input label. Be short as possible
-#. Size in emboss direction
-#. TRN - Input label. Be short as possible
 msgid "Depth"
-msgstr "Depth"
+msgstr "ความลึก"
 
 msgid "Groove"
-msgstr "Groove"
+msgstr "ร่อง"
 
 msgid "Width"
-msgstr "Width"
+msgstr "ความกว้าง"
 
 msgid "Flap Angle"
-msgstr "Flap Angle"
+msgstr "มุมปีก"
 
 msgid "Groove Angle"
-msgstr "Groove Angle"
+msgstr "มุมร่อง"
 
 msgid "Part"
-msgstr "Part"
+msgstr "ชิ้นส่วน"
 
 msgid "Object"
-msgstr "Object"
+msgstr "วัตถุ"
 
 msgid ""
 "Click to flip the cut plane\n"
 "Drag to move the cut plane"
 msgstr ""
+"คลิกเพื่อกลับด้านระนาบตัด\n"
+"ลากเพื่อย้ายระนาบตัด"
 
 msgid ""
 "Click to flip the cut plane\n"
 "Drag to move the cut plane\n"
 "Right-click a part to assign it to the other side"
 msgstr ""
+"คลิกเพื่อกลับด้านระนาบตัด\n"
+"ลากเพื่อย้ายระนาบตัด\n"
+"คลิกขวาที่ชิ้นส่วนเพื่อย้ายไปอีกด้าน"
 
 msgid "Move cut plane"
-msgstr ""
+msgstr "ย้ายระนาบตัด"
 
 msgid "Mode"
-msgstr "Mode"
+msgstr "โหมด"
 
 msgid "Change cut mode"
-msgstr ""
+msgstr "เปลี่ยนโหมดการตัด"
 
 msgid "Tolerance"
-msgstr "Tolerance"
+msgstr "ค่าความเผื่อ"
 
 msgid "Drag"
-msgstr "Drag"
+msgstr "ลาก"
 
 msgid "Draw cut line"
-msgstr ""
+msgstr "วาดเส้นตัด"
 
 msgid "Left click"
-msgstr "Left click"
+msgstr "คลิกซ้าย"
 
 msgid "Add connector"
-msgstr "Add connector"
+msgstr "เพิ่มตัวเชื่อม"
 
 msgid "Right click"
-msgstr "Right click"
+msgstr "คลิกขวา"
 
 msgid "Remove connector"
-msgstr "Remove connector"
+msgstr "ลบตัวเชื่อม"
 
 msgid "Move connector"
-msgstr "Move connector"
+msgstr "ย้ายตัวเชื่อม"
 
 msgid "Add connector to selection"
-msgstr "Add connector to selection"
+msgstr "เพิ่มตัวเชื่อมไปยังที่เลือก"
 
 msgid "Remove connector from selection"
-msgstr "Remove connector from selection"
+msgstr "ลบตัวเชื่อมออกจากที่เลือก"
 
 msgid "Select all connectors"
-msgstr "Select all connectors"
+msgstr "เลือกตัวเชื่อมทั้งหมด"
 
 msgid "Cut"
-msgstr "Cut"
+msgstr "ตัด"
 
 msgid "Rotate cut plane"
-msgstr ""
+msgstr "หมุนระนาบตัด"
 
 msgid "Remove connectors"
-msgstr "Remove connectors"
+msgstr "ลบตัวเชื่อม"
 
 msgid "Bulge"
-msgstr "Bulge"
+msgstr "นูน"
 
 msgid "Bulge proportion related to radius"
-msgstr ""
+msgstr "อัตราส่วนความนูนสัมพันธ์กับรัศมี"
 
 msgid "Space"
-msgstr "Space"
+msgstr "ช่องว่าง"
 
 msgid "Space proportion related to radius"
-msgstr ""
+msgstr "อัตราส่วนช่องว่างสัมพันธ์กับรัศมี"
 
 msgid "Confirm connectors"
-msgstr "Confirm connectors"
+msgstr "ยืนยันตัวเชื่อม"
 
 msgid "Cancel"
-msgstr "Cancel"
+msgstr "ยกเลิก"
 
 msgid "Build Volume"
-msgstr ""
+msgstr "ขนาดพื้นที่พิมพ์"
 
 msgid "Flip cut plane"
-msgstr ""
+msgstr "กลับด้านระนาบตัด"
 
 msgid "Groove change"
-msgstr ""
+msgstr "การเปลี่ยนร่อง"
 
 msgid "Reset"
-msgstr "Reset"
+msgstr "รีเซ็ต"
 
-#. TRN: This is an entry in the Undo/Redo stack. The whole line will be 'Edited: (name of whatever was edited)'.
 msgid "Edited"
-msgstr ""
+msgstr "แก้ไขแล้ว"
 
 msgid "Cut position"
-msgstr ""
+msgstr "ตำแหน่งตัด"
 
 msgid "Reset cutting plane"
-msgstr ""
+msgstr "รีเซ็ตระนาบตัด"
 
 msgid "Edit connectors"
-msgstr "Edit connectors"
+msgstr "แก้ไขตัวเชื่อม"
 
 msgid "Add connectors"
-msgstr "Add connectors"
+msgstr "เพิ่มตัวเชื่อม"
 
 msgid "Reset cut"
-msgstr ""
+msgstr "รีเซ็ตการตัด"
 
 msgid "Reset cutting plane and remove connectors"
-msgstr ""
+msgstr "รีเซ็ตระนาบตัดและลบตัวเชื่อม"
 
 msgid "Upper part"
-msgstr "Upper part"
+msgstr "ส่วนบน"
 
 msgid "Lower part"
-msgstr "Lower part"
+msgstr "ส่วนล่าง"
 
 msgid "Keep"
-msgstr "Keep"
+msgstr "เก็บไว้"
 
 msgid "Flip"
-msgstr "Flip"
+msgstr "กลับด้าน"
 
 msgid "After cut"
-msgstr "After cut"
+msgstr "หลังตัด"
 
 msgid "Cut to parts"
-msgstr "Cut to parts"
+msgstr "ตัดเป็นชิ้นส่วน"
 
 msgid "Perform cut"
-msgstr "Perform cut"
+msgstr "ดำเนินการตัด"
 
 msgid "Warning"
-msgstr "Warning"
+msgstr "คำเตือน"
 
 msgid "Invalid connectors detected"
-msgstr "Invalid connectors detected"
+msgstr "ตรวจพบตัวเชื่อมไม่ถูกต้อง"
 
-#, c-format, boost-format
 msgid "%1$d connector is out of cut contour"
 msgid_plural "%1$d connectors are out of cut contour"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$d ตัวเชื่อมอยู่นอกเส้นตัด"
+msgstr[1] "%1$d ตัวเชื่อมอยู่นอกเส้นตัด"
 
-#, c-format, boost-format
 msgid "%1$d connector is out of object"
 msgid_plural "%1$d connectors are out of object"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1$d ตัวเชื่อมอยู่นอกวัตถุ"
+msgstr[1] "%1$d ตัวเชื่อมอยู่นอกวัตถุ"
 
 msgid "Some connectors are overlapped"
-msgstr "Some connectors are overlapped"
+msgstr "ตัวเชื่อมบางตัวซ้อนทับกัน"
 
 msgid "Select at least one object to keep after cutting."
-msgstr ""
+msgstr "เลือกอย่างน้อยหนึ่งวัตถุเพื่อเก็บไว้หลังการตัด"
 
 msgid "Cut plane is placed out of object"
-msgstr ""
+msgstr "ระนาบตัดอยู่นอกวัตถุ"
 
 msgid "Cut plane with groove is invalid"
-msgstr ""
+msgstr "ระนาบตัดที่มีร่องไม่ถูกต้อง"
 
 msgid "Connector"
-msgstr "Connector"
+msgstr "ตัวเชื่อม"
 
 msgid "Cut by Plane"
-msgstr ""
+msgstr "ตัดด้วยระนาบ"
 
 msgid "non-manifold edges be caused by cut tool, do you want to fix it now?"
-msgstr "Non-manifold edges be caused by cut tool: do you want to fix now?"
+msgstr "ขอบ Non-manifold เกิดจากเครื่องมือตัด ต้องการแก้ไขตอนนี้หรือไม่?"
 
 msgid "Repairing model object"
-msgstr "Repairing model object"
+msgstr "กำลังซ่อมแซมโมเดลวัตถุ"
 
 msgid "Cut by line"
-msgstr ""
+msgstr "ตัดด้วยเส้น"
 
 msgid "Delete connector"
-msgstr ""
+msgstr "ลบตัวเชื่อม"
 
 msgid "Mesh name"
-msgstr "Mesh name"
+msgstr "ชื่อ Mesh"
 
 msgid "Detail level"
-msgstr "Detail level"
+msgstr "ระดับรายละเอียด"
 
 msgid "Decimate ratio"
-msgstr "Decimate ratio"
+msgstr "อัตราการลด Polygon"
 
-#, boost-format
 msgid ""
 "Processing model '%1%' with more than 1M triangles could be slow. It is "
 "highly recommended to simplify the model."
-msgstr ""
-"Processing model '%1%' with more than 1M triangles could be slow. It is "
-"highly recommended to simplify the model."
+msgstr "การประมวลผลโมเดล '%1%' ที่มีมากกว่า 1 ล้านสามเหลี่ยมอาจช้า แนะนำให้ทำให้โมเดลง่ายขึ้น"
 
 msgid "Simplify model"
-msgstr "Simplify model"
+msgstr "ทำโมเดลให้เรียบง่าย"
 
 msgid "Simplify"
-msgstr "Simplify"
+msgstr "ทำให้ง่ายขึ้น"
 
 msgid "Simplification is currently only allowed when a single part is selected"
-msgstr ""
-"Simplification is currently only allowed when a single part is selected"
+msgstr "สามารถทำให้ง่ายขึ้นได้เฉพาะเมื่อเลือกชิ้นส่วนเดียวเท่านั้น"
 
 msgid "Error"
-msgstr "Error"
+msgstr "ข้อผิดพลาด"
 
 msgid "Extra high"
-msgstr "Extra high"
+msgstr "สูงมาก"
 
 msgid "High"
-msgstr "High"
+msgstr "สูง"
 
 msgid "Medium"
-msgstr "Medium"
+msgstr "ปานกลาง"
 
 msgid "Low"
-msgstr "Low"
+msgstr "ต่ำ"
 
 msgid "Extra low"
-msgstr "Extra low"
+msgstr "ต่ำมาก"
 
-#, c-format, boost-format
 msgid "%d triangles"
-msgstr "%d triangles"
+msgstr "%d สามเหลี่ยม"
 
 msgid "Show wireframe"
-msgstr "Show wireframe"
+msgstr "แสดง Wireframe"
 
-#, boost-format
 msgid "%1%"
 msgstr "%1%"
 
 msgid "Can't apply when process preview."
-msgstr "Unable to apply when processing preview"
+msgstr "ไม่สามารถใช้ได้ระหว่างประมวลผลพรีวิว"
 
 msgid "Operation already cancelling. Please wait few seconds."
-msgstr "Operation already cancelling. Please wait few seconds."
+msgstr "กำลังยกเลิกการทำงาน โปรดรอสักครู่"
 
 msgid "Face recognition"
-msgstr "Face recognition"
+msgstr "การจดจำพื้นผิว"
 
 msgid "Perform Recognition"
-msgstr "Perform Recognition"
+msgstr "ดำเนินการจดจำ"
+
 
 msgid "Brush size"
-msgstr "Brush size"
+msgstr "ขนาดแปรง"
 
 msgid "Brush shape"
-msgstr "Brush shape"
+msgstr "รูปทรงแปรง"
 
 msgid "Enforce seam"
-msgstr "Enforce seam"
+msgstr "บังคับจุดต่อ (Seam)"
 
 msgid "Block seam"
-msgstr "Block seam"
+msgstr "บล็อกจุดต่อ (Seam)"
 
 msgid "Seam painting"
-msgstr "Seam painting"
+msgstr "การระบายสีจุดต่อ (Seam)"
 
 msgid "Remove selection"
-msgstr "Remove selection"
+msgstr "ลบการเลือก"
 
 msgid "Entering Seam painting"
-msgstr "Entering seam painting"
+msgstr "เข้าสู่โหมดระบายสี Seam"
 
 msgid "Leaving Seam painting"
-msgstr "Leaving Seam Painting"
+msgstr "ออกจากโหมดระบายสี Seam"
 
 msgid "Paint-on seam editing"
-msgstr "Paint-on seam editing"
+msgstr "แก้ไข Seam ด้วยการระบายสี"
 
-#. TRN - Input label. Be short as possible
-#. Select look of letter shape
 msgid "Font"
-msgstr "Font"
+msgstr "แบบอักษร"
 
 msgid "Thickness"
-msgstr "Thickness"
+msgstr "ความหนา"
 
 msgid "Text Gap"
-msgstr "Text Gap"
+msgstr "ระยะห่างข้อความ"
 
 msgid "Angle"
-msgstr "Angle"
+msgstr "มุม"
 
-msgid ""
-"Embedded\n"
-"depth"
-msgstr "Embedded depth"
+msgid "Embedded depth"
+msgstr "ความลึกการฝัง"
 
 msgid "Input text"
-msgstr "Input text"
+msgstr "ป้อนข้อความ"
 
 msgid "Surface"
-msgstr "Surface"
+msgstr "พื้นผิว"
 
 msgid "Horizontal text"
-msgstr "Horizontal text"
+msgstr "ข้อความแนวนอน"
 
 msgid "Shift + Mouse move up or down"
-msgstr "Shift + Mouse move up or down"
+msgstr "Shift + เลื่อนเมาส์ขึ้นหรือลง"
 
 msgid "Rotate text"
-msgstr "Rotate text"
+msgstr "หมุนข้อความ"
 
 msgid "Text shape"
-msgstr "Text shape"
+msgstr "รูปร่างข้อความ"
 
-#. TRN - Title in Undo/Redo stack after rotate with text around emboss axe
 msgid "Text rotate"
-msgstr ""
+msgstr "หมุนข้อความ"
 
-#. TRN - Title in Undo/Redo stack after move with text along emboss axe - From surface
 msgid "Text move"
-msgstr ""
+msgstr "ย้ายข้อความ"
 
 msgid "Set Mirror"
-msgstr ""
+msgstr "ตั้งค่ากระจกสะท้อน (Mirror)"
 
 msgid "Embossed text"
-msgstr ""
+msgstr "ข้อความนูน"
 
 msgid "Enter emboss gizmo"
-msgstr ""
+msgstr "เข้าสู่เครื่องมือ Emboss"
 
 msgid "Leave emboss gizmo"
-msgstr ""
+msgstr "ออกจากเครื่องมือ Emboss"
 
 msgid "Embossing actions"
-msgstr ""
+msgstr "การดำเนินการ Emboss"
 
 msgid "Emboss"
-msgstr ""
+msgstr "Emboss"
 
 msgid "NORMAL"
-msgstr ""
+msgstr "ปกติ"
 
 msgid "SMALL"
-msgstr ""
+msgstr "เล็ก"
 
 msgid "ITALIC"
-msgstr ""
+msgstr "ตัวเอียง"
 
 msgid "SWISS"
-msgstr ""
+msgstr "Swiss"
 
 msgid "MODERN"
-msgstr ""
+msgstr "Modern"
 
 msgid "First font"
-msgstr ""
+msgstr "ฟอนต์แรก"
 
 msgid "Default font"
-msgstr ""
+msgstr "ฟอนต์เริ่มต้น"
 
 msgid "Advanced"
-msgstr "Advanced"
+msgstr "ขั้นสูง"
 
-msgid ""
-"The text cannot be written using the selected font. Please try choosing a "
-"different font."
-msgstr ""
+msgid "The text cannot be written using the selected font. Please try choosing a different font."
+msgstr "ไม่สามารถพิมพ์ข้อความด้วยฟอนต์ที่เลือก กรุณาเลือกฟอนต์อื่น"
 
 msgid "Embossed text cannot contain only white spaces."
-msgstr ""
+msgstr "ข้อความนูนไม่สามารถมีเพียงช่องว่างได้"
 
 msgid "Text contains character glyph (represented by '?') unknown by font."
-msgstr ""
+msgstr "ข้อความมีอักขระที่ฟอนต์ไม่รู้จัก (แสดงด้วย '?')"
 
 msgid "Text input doesn't show font skew."
-msgstr ""
+msgstr "การป้อนข้อความไม่แสดงการเอียงของฟอนต์"
 
 msgid "Text input doesn't show font boldness."
-msgstr ""
+msgstr "การป้อนข้อความไม่แสดงความหนาของฟอนต์"
 
 msgid "Text input doesn't show gap between lines."
-msgstr ""
+msgstr "การป้อนข้อความไม่แสดงระยะห่างระหว่างบรรทัด"
 
 msgid "Too tall, diminished font height inside text input."
-msgstr ""
+msgstr "สูงเกินไป ทำให้ความสูงฟอนต์ในกล่องข้อความลดลง"
 
 msgid "Too small, enlarged font height inside text input."
-msgstr ""
+msgstr "เล็กเกินไป ทำให้ความสูงฟอนต์ในกล่องข้อความเพิ่มขึ้น"
 
 msgid "Text doesn't show current horizontal alignment."
-msgstr ""
+msgstr "ข้อความไม่แสดงการจัดแนวนอนปัจจุบัน"
 
 msgid "Revert font changes."
-msgstr ""
+msgstr "ย้อนการเปลี่ยนแปลงฟอนต์"
 
-#, boost-format
 msgid "Font \"%1%\" can't be selected."
-msgstr ""
+msgstr "ไม่สามารถเลือกฟอนต์ \"%1%\" ได้"
 
 msgid "Operation"
-msgstr ""
+msgstr "การทำงาน"
 
 msgid "Join"
-msgstr ""
+msgstr "รวม"
 
 msgid "Click to change text into object part."
-msgstr ""
+msgstr "คลิกเพื่อเปลี่ยนข้อความเป็นส่วนหนึ่งของวัตถุ"
 
 msgid "You can't change a type of the last solid part of the object."
-msgstr ""
+msgstr "ไม่สามารถเปลี่ยนประเภทของชิ้นส่วนทึบชิ้นสุดท้ายของวัตถุได้"
 
 msgctxt "EmbossOperation"
 msgid "Cut"
-msgstr "Cut"
+msgstr "ตัด"
 
 msgid "Click to change part type into negative volume."
-msgstr ""
+msgstr "คลิกเพื่อเปลี่ยนประเภทชิ้นส่วนเป็นปริมาตรลบ"
 
 msgid "Modifier"
-msgstr "Modifier"
+msgstr "ตัวแก้ไข"
 
 msgid "Click to change part type into modifier."
-msgstr ""
+msgstr "คลิกเพื่อเปลี่ยนประเภทชิ้นส่วนเป็นตัวแก้ไข"
 
 msgid "Change Text Type"
-msgstr ""
+msgstr "เปลี่ยนประเภทข้อความ"
 
-#, boost-format
 msgid "Rename style(%1%) for embossing text"
-msgstr ""
+msgstr "เปลี่ยนชื่อสไตล์ (%1%) สำหรับข้อความ Emboss"
 
 msgid "Name can't be empty."
-msgstr ""
+msgstr "ชื่อต้องไม่ว่างเปล่า"
 
 msgid "Name has to be unique."
-msgstr ""
+msgstr "ชื่อต้องไม่ซ้ำกัน"
 
 msgid "OK"
-msgstr "OK"
+msgstr "ตกลง"
 
 msgid "Rename style"
-msgstr ""
+msgstr "เปลี่ยนชื่อสไตล์"
 
 msgid "Rename current style."
-msgstr ""
+msgstr "เปลี่ยนชื่อสไตล์ปัจจุบัน"
 
 msgid "Can't rename temporary style."
-msgstr ""
+msgstr "ไม่สามารถเปลี่ยนชื่อสไตล์ชั่วคราวได้"
 
 msgid "First Add style to list."
-msgstr ""
+msgstr "เพิ่มสไตล์ไปยังรายการก่อน"
 
-#, boost-format
 msgid "Save %1% style"
-msgstr ""
+msgstr "บันทึกสไตล์ %1%"
 
 msgid "No changes to save."
-msgstr ""
+msgstr "ไม่มีการเปลี่ยนแปลงที่จะบันทึก"
 
 msgid "New name of style"
-msgstr ""
+msgstr "ชื่อใหม่ของสไตล์"
 
 msgid "Save as new style"
-msgstr ""
+msgstr "บันทึกเป็นสไตล์ใหม่"
 
 msgid "Only valid font can be added to style."
-msgstr ""
+msgstr "สามารถเพิ่มฟอนต์ที่ถูกต้องไปยังสไตล์ได้เท่านั้น"
 
 msgid "Add style to my list."
-msgstr ""
+msgstr "เพิ่มสไตล์ในรายการของฉัน"
 
 msgid "Save as new style."
-msgstr ""
+msgstr "บันทึกเป็นสไตล์ใหม่"
 
 msgid "Remove style"
-msgstr ""
+msgstr "ลบสไตล์"
 
 msgid "Can't remove the last existing style."
-msgstr ""
+msgstr "ไม่สามารถลบสไตล์สุดท้ายที่เหลืออยู่ได้"
 
-#, boost-format
 msgid "Are you sure you want to permanently remove the \"%1%\" style?"
-msgstr ""
+msgstr "คุณแน่ใจหรือว่าต้องการลบสไตล์ \"%1%\" ถาวร?"
 
-#, boost-format
 msgid "Delete \"%1%\" style."
-msgstr ""
+msgstr "ลบสไตล์ \"%1%\""
 
-#, boost-format
 msgid "Can't delete \"%1%\". It is last style."
-msgstr ""
+msgstr "ไม่สามารถลบ \"%1%\" ได้ เพราะเป็นสไตล์สุดท้าย"
 
-#, boost-format
 msgid "Can't delete temporary style \"%1%\"."
-msgstr ""
+msgstr "ไม่สามารถลบสไตล์ชั่วคราว \"%1%\" ได้"
 
-#, boost-format
 msgid "Modified style \"%1%\""
-msgstr ""
+msgstr "สไตล์ \"%1%\" ถูกแก้ไข"
 
-#, boost-format
 msgid "Current style is \"%1%\""
-msgstr ""
+msgstr "สไตล์ปัจจุบันคือ \"%1%\""
 
-#, boost-format
 msgid ""
 "Changing style to \"%1%\" will discard current style modification.\n"
 "\n"
 "Would you like to continue anyway?"
-msgstr ""
+msgstr "การเปลี่ยนสไตล์เป็น \"%1%\" จะยกเลิกการแก้ไขสไตล์ปัจจุบัน\n\nคุณต้องการดำเนินการต่อหรือไม่?"
 
 msgid "Not valid style."
-msgstr ""
+msgstr "สไตล์ไม่ถูกต้อง"
 
-#, boost-format
 msgid "Style \"%1%\" can't be used and will be removed from a list."
-msgstr ""
+msgstr "สไตล์ \"%1%\" ไม่สามารถใช้ได้และจะถูกลบออกจากรายการ"
 
 msgid "Unset italic"
-msgstr ""
+msgstr "ยกเลิกตัวเอียง"
 
 msgid "Set italic"
-msgstr ""
+msgstr "ตั้งเป็นตัวเอียง"
 
 msgid "Unset bold"
-msgstr ""
+msgstr "ยกเลิกตัวหนา"
 
 msgid "Set bold"
-msgstr ""
+msgstr "ตั้งเป็นตัวหนา"
 
 msgid "Revert text size."
-msgstr ""
+msgstr "ย้อนขนาดข้อความ"
 
 msgid "Revert embossed depth."
-msgstr ""
+msgstr "ย้อนความลึกการฝัง"
 
-msgid ""
-"Advanced options cannot be changed for the selected font.\n"
-"Select another font."
-msgstr ""
+msgid "Advanced options cannot be changed for the selected font.\nSelect another font."
+msgstr "ไม่สามารถเปลี่ยนตัวเลือกขั้นสูงสำหรับฟอนต์ที่เลือก\nโปรดเลือกฟอนต์อื่น"
 
 msgid "Revert using of model surface."
-msgstr ""
+msgstr "ย้อนการใช้พื้นผิวโมเดล"
 
 msgid "Revert Transformation per glyph."
-msgstr ""
+msgstr "ย้อนการปรับต่ออักขระ"
 
 msgid "Set global orientation for whole text."
-msgstr ""
+msgstr "ตั้งค่าทิศทางรวมสำหรับข้อความทั้งหมด"
 
 msgid "Set position and orientation per glyph."
-msgstr ""
+msgstr "ตั้งค่าตำแหน่งและทิศทางต่ออักขระ"
+
 
 msgctxt "Alignment"
 msgid "Left"
-msgstr "Left"
+msgstr "ชิดซ้าย"
 
 msgctxt "Alignment"
 msgid "Center"
-msgstr "Center"
+msgstr "กึ่งกลาง"
 
 msgctxt "Alignment"
 msgid "Right"
-msgstr "Right"
+msgstr "ชิดขวา"
 
 msgctxt "Alignment"
 msgid "Top"
-msgstr "Top"
+msgstr "ด้านบน"
 
 msgctxt "Alignment"
 msgid "Middle"
-msgstr ""
+msgstr "ตรงกลาง"
 
 msgctxt "Alignment"
 msgid "Bottom"
-msgstr "Bottom"
+msgstr "ด้านล่าง"
 
 msgid "Revert alignment."
-msgstr ""
+msgstr "ย้อนการจัดตำแหน่ง"
 
-#. TRN EmbossGizmo: font units
 msgid "points"
-msgstr ""
+msgstr "พอยต์"
 
 msgid "Revert gap between characters"
-msgstr ""
+msgstr "ย้อนระยะห่างระหว่างตัวอักษร"
 
 msgid "Distance between characters"
-msgstr ""
+msgstr "ระยะห่างระหว่างตัวอักษร"
 
 msgid "Revert gap between lines"
-msgstr ""
+msgstr "ย้อนระยะห่างระหว่างบรรทัด"
 
 msgid "Distance between lines"
-msgstr ""
+msgstr "ระยะห่างระหว่างบรรทัด"
 
 msgid "Undo boldness"
-msgstr ""
+msgstr "ย้อนความหนาของฟอนต์"
 
 msgid "Tiny / Wide glyphs"
-msgstr ""
+msgstr "อักขระเล็ก / กว้าง"
 
 msgid "Undo letter's skew"
-msgstr ""
+msgstr "ย้อนการเอียงของตัวอักษร"
 
 msgid "Italic strength ratio"
-msgstr ""
+msgstr "อัตราความเอียง (Italic)"
 
 msgid "Undo translation"
-msgstr ""
+msgstr "ย้อนการเลื่อนตำแหน่ง"
 
 msgid "Distance of the center of the text to the model surface."
-msgstr ""
+msgstr "ระยะจากจุดกึ่งกลางข้อความถึงพื้นผิวโมเดล"
 
 msgid "Undo rotation"
-msgstr ""
+msgstr "ย้อนการหมุน"
 
 msgid "Rotate text Clock-wise."
-msgstr ""
+msgstr "หมุนข้อความตามเข็มนาฬิกา"
 
 msgid "Unlock the text's rotation when moving text along the object's surface."
-msgstr ""
+msgstr "ปลดล็อกการหมุนข้อความเมื่อเลื่อนบนพื้นผิววัตถุ"
 
 msgid "Lock the text's rotation when moving text along the object's surface."
-msgstr ""
+msgstr "ล็อกการหมุนข้อความเมื่อเลื่อนบนพื้นผิววัตถุ"
 
 msgid "Select from True Type Collection."
-msgstr ""
+msgstr "เลือกจากชุดฟอนต์ TrueType"
 
 msgid "Set text to face camera"
-msgstr ""
+msgstr "ตั้งให้ข้อความหันเข้ากล้อง"
 
 msgid "Orient the text towards the camera."
-msgstr ""
+msgstr "ปรับทิศทางข้อความให้หันเข้ากล้อง"
 
-#, boost-format
-msgid ""
-"Can't load exactly same font(\"%1%\"). Application selected a similar "
-"one(\"%2%\"). You have to specify font for enable edit text."
-msgstr ""
+msgid "Can't load exactly same font(\"%1%\"). Application selected a similar one(\"%2%\"). You have to specify font for enable edit text."
+msgstr "ไม่สามารถโหลดฟอนต์เดียวกัน \"%1%\" ได้ โปรแกรมได้เลือกฟอนต์ที่ใกล้เคียง \"%2%\" คุณต้องระบุฟอนต์เพื่อเปิดใช้งานการแก้ไขข้อความ"
 
 msgid "No symbol"
-msgstr ""
+msgstr "ไม่มีสัญลักษณ์"
 
 msgid "Loading"
-msgstr "Loading"
+msgstr "กำลังโหลด"
 
 msgid "In queue"
-msgstr ""
+msgstr "อยู่ในคิว"
 
-#. TRN - Input label. Be short as possible
-#. Height of one text line - Font Ascent
 msgid "Height"
-msgstr "Height"
+msgstr "ความสูง"
 
-#. TRN - Input label. Be short as possible
-#. Copy surface of model on surface of the embossed text
-#. TRN - Input label. Be short as possible
 msgid "Use surface"
-msgstr ""
+msgstr "ใช้พื้นผิว"
 
-#. TRN - Input label. Be short as possible
-#. Option to change projection on curved surface
-#. for each character(glyph) in text separately
 msgid "Per glyph"
-msgstr ""
+msgstr "ต่ออักขระ"
 
-#. TRN - Input label. Be short as possible
-#. Align Top|Middle|Bottom and Left|Center|Right
 msgid "Alignment"
-msgstr ""
+msgstr "การจัดตำแหน่ง"
 
-#. TRN - Input label. Be short as possible
 msgid "Char gap"
-msgstr ""
+msgstr "ระยะห่างตัวอักษร"
 
-#. TRN - Input label. Be short as possible
 msgid "Line gap"
-msgstr ""
+msgstr "ระยะห่างบรรทัด"
 
-#. TRN - Input label. Be short as possible
 msgid "Boldness"
-msgstr ""
+msgstr "ความหนา"
 
-#. TRN - Input label. Be short as possible
-#. Like Font italic
 msgid "Skew ratio"
-msgstr ""
+msgstr "อัตราการเอียง"
 
-#. TRN - Input label. Be short as possible
-#. Distance from model surface to be able
-#. move text as part fully into not flat surface
-#. move text as modifier fully out of not flat surface
-#. TRN - Input label. Be short as possible
 msgid "From surface"
-msgstr ""
+msgstr "จากพื้นผิว"
 
-#. TRN - Input label. Be short as possible
-#. Keep vector from bottom to top of text aligned with printer Y axis
 msgid "Keep up"
-msgstr ""
+msgstr "คงทิศบน"
 
-#. TRN - Input label. Be short as possible.
-#. Some Font file contain multiple fonts inside and
-#. this is numerical selector of font inside font collections
 msgid "Collection"
-msgstr ""
+msgstr "ชุดฟอนต์"
 
-#. TRN - Title in Undo/Redo stack after rotate with SVG around emboss axe
 msgid "SVG rotate"
-msgstr ""
+msgstr "หมุน SVG"
 
-#. TRN - Title in Undo/Redo stack after move with SVG along emboss axe - From surface
 msgid "SVG move"
-msgstr ""
+msgstr "ย้าย SVG"
 
 msgid "Enter SVG gizmo"
-msgstr ""
+msgstr "เข้าสู่เครื่องมือ SVG"
 
 msgid "Leave SVG gizmo"
-msgstr ""
+msgstr "ออกจากเครื่องมือ SVG"
 
 msgid "SVG actions"
-msgstr ""
+msgstr "การดำเนินการ SVG"
 
 msgid "SVG"
-msgstr ""
+msgstr "SVG"
 
-#, boost-format
 msgid "Opacity (%1%)"
-msgstr ""
+msgstr "ความทึบแสง (%1%)"
 
-#, boost-format
 msgid "Color gradient (%1%)"
-msgstr ""
+msgstr "ไล่สี (%1%)"
 
 msgid "Undefined fill type"
-msgstr ""
+msgstr "ประเภทการเติมไม่ถูกกำหนด"
 
 msgid "Linear gradient"
-msgstr ""
+msgstr "ไล่สีเชิงเส้น"
 
 msgid "Radial gradient"
-msgstr ""
+msgstr "ไล่สีรัศมี"
 
 msgid "Open filled path"
-msgstr ""
+msgstr "เปิดเส้นทางที่ถูกเติม"
 
 msgid "Undefined stroke type"
-msgstr ""
+msgstr "ประเภทเส้นขอบไม่ถูกกำหนด"
 
 msgid "Path can't be healed from self-intersection and multiple points."
-msgstr ""
+msgstr "ไม่สามารถแก้เส้นทางที่ตัดกันเองหรือมีจุดซ้ำได้"
 
-msgid ""
-"Final shape contains self-intersection or multiple points with same "
-"coordinate."
-msgstr ""
+msgid "Final shape contains self-intersection or multiple points with same coordinate."
+msgstr "รูปร่างสุดท้ายมีการตัดกันเองหรือมีหลายจุดพิกัดเดียวกัน"
 
-#, boost-format
 msgid "Shape is marked as invisible (%1%)."
-msgstr ""
+msgstr "รูปร่างถูกกำหนดให้มองไม่เห็น (%1%)"
 
-#. TRN: The first placeholder is shape identifier, the second one is text describing the problem.
-#, boost-format
 msgid "Fill of shape (%1%) contains unsupported: %2%."
-msgstr ""
+msgstr "การเติมรูปร่าง (%1%) มีองค์ประกอบที่ไม่รองรับ: %2%"
 
-#, boost-format
 msgid "Stroke of shape (%1%) is too thin (minimal width is %2% mm)."
-msgstr ""
+msgstr "เส้นขอบของรูปร่าง (%1%) บางเกินไป (ความกว้างขั้นต่ำคือ %2% มม.)"
 
-#, boost-format
 msgid "Stroke of shape (%1%) contains unsupported: %2%."
-msgstr ""
+msgstr "เส้นขอบของรูปร่าง (%1%) มีองค์ประกอบที่ไม่รองรับ: %2%"
 
 msgid "Face the camera"
-msgstr ""
+msgstr "หันเข้ากล้อง"
 
-#. TRN - Preview of filename after clear local filepath.
 msgid "Unknown filename"
-msgstr ""
+msgstr "ชื่อไฟล์ไม่ทราบ"
 
-#, boost-format
 msgid "SVG file path is \"%1%\""
-msgstr ""
+msgstr "พาธไฟล์ SVG คือ \"%1%\""
 
 msgid "Reload SVG file from disk."
-msgstr ""
+msgstr "โหลดไฟล์ SVG จากดิสก์ใหม่"
 
 msgid "Change file"
-msgstr ""
+msgstr "เปลี่ยนไฟล์"
 
 msgid "Change to another .svg file"
-msgstr ""
+msgstr "เปลี่ยนเป็นไฟล์ .svg อื่น"
 
 msgid "Forget the file path"
-msgstr ""
+msgstr "ลืมพาธไฟล์"
 
-msgid ""
-"Do NOT save local path to 3MF file.\n"
-"Also disables 'reload from disk' option."
-msgstr ""
+msgid "Do NOT save local path to 3MF file.\nAlso disables 'reload from disk' option."
+msgstr "ไม่บันทึกพาธไฟล์ภายในเครื่องลงไฟล์ 3MF\nและปิดการใช้ตัวเลือก 'โหลดจากดิสก์ใหม่'"
 
-#. TRN: An menu option to convert the SVG into an unmodifiable model part.
 msgid "Bake"
-msgstr ""
+msgstr "Bake"
 
-#. TRN: Tooltip for the menu item.
 msgid "Bake into model as uneditable part"
-msgstr ""
+msgstr "รวมเข้าโมเดลเป็นส่วนที่แก้ไขไม่ได้"
 
 msgid "Save as"
-msgstr ""
+msgstr "บันทึกเป็น"
 
 msgid "Save SVG file"
-msgstr ""
+msgstr "บันทึกไฟล์ SVG"
 
 msgid "Save as '.svg' file"
-msgstr ""
+msgstr "บันทึกเป็นไฟล์ '.svg'"
 
 msgid "Size in emboss direction."
-msgstr ""
+msgstr "ขนาดในทิศทาง Emboss"
 
-#. TRN: The placeholder contains a number.
-#, boost-format
 msgid "Scale also changes amount of curve samples (%1%)"
-msgstr ""
+msgstr "การปรับสเกลจะเปลี่ยนจำนวนตัวอย่างเส้นโค้งด้วย (%1%)"
 
 msgid "Width of SVG."
-msgstr ""
+msgstr "ความกว้างของ SVG"
 
 msgid "Height of SVG."
-msgstr ""
+msgstr "ความสูงของ SVG"
 
 msgid "Lock/unlock the aspect ratio of the SVG."
-msgstr ""
+msgstr "ล็อก/ปลดล็อกอัตราส่วนของ SVG"
 
 msgid "Reset scale"
-msgstr ""
+msgstr "รีเซ็ตสเกล"
 
 msgid "Distance of the center of the SVG to the model surface."
-msgstr ""
+msgstr "ระยะจากจุดกึ่งกลาง SVG ถึงพื้นผิวโมเดล"
 
 msgid "Reset distance"
-msgstr ""
+msgstr "รีเซ็ตระยะ"
 
 msgid "Reset rotation"
-msgstr ""
+msgstr "รีเซ็ตการหมุน"
 
 msgid "Lock/unlock rotation angle when dragging above the surface."
-msgstr ""
+msgstr "ล็อก/ปลดล็อกมุมหมุนเมื่อวางเหนือพื้นผิว"
 
 msgid "Mirror vertically"
-msgstr ""
+msgstr "สะท้อนในแนวตั้ง"
 
 msgid "Mirror horizontally"
-msgstr ""
+msgstr "สะท้อนในแนวนอน"
 
-#. TRN: This is the name of the action that shows in undo/redo stack (changing part type from SVG to something else).
 msgid "Change SVG Type"
-msgstr ""
+msgstr "เปลี่ยนประเภท SVG"
 
-#. TRN - Input label. Be short as possible
 msgid "Mirror"
-msgstr "Mirror"
+msgstr "สะท้อน"
 
 msgid "Choose SVG file for emboss:"
-msgstr ""
+msgstr "เลือกไฟล์ SVG สำหรับ Emboss:"
 
-#, boost-format
 msgid "File does NOT exist (%1%)."
-msgstr ""
+msgstr "ไฟล์ไม่มีอยู่จริง (%1%)"
 
-#, boost-format
 msgid "Filename has to end with \".svg\" but you selected %1%"
-msgstr ""
+msgstr "ชื่อไฟล์ต้องลงท้ายด้วย \".svg\" แต่คุณเลือก %1%"
 
-#, boost-format
 msgid "Nano SVG parser can't load from file (%1%)."
-msgstr ""
+msgstr "ตัวประมวลผล Nano SVG ไม่สามารถโหลดจากไฟล์ (%1%)"
 
-#, boost-format
 msgid "SVG file does NOT contain a single path to be embossed (%1%)."
-msgstr ""
+msgstr "ไฟล์ SVG ไม่มีเส้นทางเดียวที่สามารถ Emboss ได้ (%1%)"
 
 msgid "Vertex"
 msgstr "Vertex"
 
 msgid "Edge"
-msgstr "Edge"
+msgstr "ขอบ"
 
 msgid "Plane"
-msgstr "Plane"
+msgstr "ระนาบ"
 
 msgid "Point on edge"
-msgstr "Point on edge"
+msgstr "จุดบนขอบ"
 
 msgid "Point on circle"
-msgstr "Point on circle"
+msgstr "จุดบนวงกลม"
 
 msgid "Point on plane"
-msgstr "Point on plane"
+msgstr "จุดบนระนาบ"
 
 msgid "Center of edge"
-msgstr "Center of edge"
+msgstr "จุดกึ่งกลางขอบ"
 
 msgid "Center of circle"
-msgstr "Center of circle"
+msgstr "จุดกึ่งกลางวงกลม"
 
 msgid "ShiftLeft mouse button"
-msgstr ""
+msgstr "Shift + ปุ่มซ้ายเมาส์"
+
 
 msgid "Select feature"
 msgstr "Select feature"
